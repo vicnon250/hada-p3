@@ -1,0 +1,5 @@
+C:\Users\vnonato\Desktop\hada-p3\library\bin\Debug\library.dll
+C:\Users\vnonato\Desktop\hada-p3\library\bin\Debug\library.pdb
+C:\Users\vnonato\Desktop\hada-p3\library\obj\Debug\library.csprojAssemblyReference.cache
+C:\Users\vnonato\Desktop\hada-p3\library\obj\Debug\library.dll
+C:\Users\vnonato\Desktop\hada-p3\library\obj\Debug\library.pdb
